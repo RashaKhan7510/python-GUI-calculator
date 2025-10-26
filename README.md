@@ -7,4 +7,5 @@ FEATURES:
 - Error handling for invalid expressions
 - Simple,clean and responsive interface
 
-  
+ SCREENSHOT:
+ [Calculator Screenshot](https://raw.githubusercontent.com/RashaKhan7510/python-GUI-calculator/main/calculator.png.png)
